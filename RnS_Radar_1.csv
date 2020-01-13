@@ -1,0 +1,46 @@
+name;quadrant;ring;isNew;description
+GPS;Supply Execution;Generation Zero;TRUE;<p>Todo</p>
+ECIS;Supply Execution;1st Generation;FALSE;<p>Todo</p>
+CASY;Supply Execution;2nd Generation;TRUE;<p>Todo</p>
+SRDB;Supply Execution;3rd Generation;TRUE;<p>Todo</p>
+SSTS;Supply Execution;Generation Zero;TRUE;<p>Todo</p>
+Contract Review;Supply Execution;1st Generation;TRUE;<p>Todo</p>
+ISI(IKEA supplier Integration);Supply Execution;2nd Generation;TRUE;<p>Todo</p>
+HCPI;Supply Execution;3rd Generation;TRUE;<p>Todo</p>
+Customs Legacy;Supply Execution;Generation Zero;TRUE;<p>Todo</p>
+CUSIS(Customs Integration Solution);Supply Execution;1st Generation;FALSE;<p>Todo</p>
+ATHENA;Supply Execution;2nd Generation;FALSE;<p>Todo</p>
+IMS;Supply Execution;3rd Generation;FALSE;<p>Todo</p>
+MSI (ModuleService Supplier Integration);Supply Execution;Generation Zero;FALSE;<p>Todo</p>
+Navision;Supply Execution;1st Generation;TRUE;<p>Todo</p>
+WTS(Wood Tracing System);Supply Execution;2nd Generation;TRUE;<p>Todo</p>
+DISCUS;Supply Execution;3rd Generation;TRUE;<p>Todo</p>
+CUST;Supply Execution;Generation Zero;TRUE;<p>Todo</p>
+CAIS;Supply Execution;1st Generation;TRUE;<p>Todo</p>
+CUSIN;Supply Execution;2nd Generation;TRUE;<p>Todo</p>
+IPSOS(IKEA Purchasing Systems Operations Support );Supply Execution;3rd Generation;TRUE;<p>Todo</p>
+Payment Information;Supply Execution;Generation Zero;TRUE;<p>Todo</p>
+Isubscribe;Supply Execution;1st Generation;TRUE;<p>Todo</p>
+Supplier Quality;Supply Execution;2nd Generation;TRUE;<p>Todo</p>
+APTS(Animal Product Tracing System);Supply Execution;3rd Generation;TRUE;<p>Todo</p>
+IAT (IKEA analytics tool) ;Supply Execution;Generation Zero;TRUE;<p>Todo</p>
+PRRT(Product Requirement Review tool);Supply Execution;1st Generation;TRUE;<p>Todo</p>
+ITM;O&L;2nd Generation;TRUE;<p>Todo</p>
+SDE;O&L;3rd Generation;TRUE;<p>Todo</p>
+DELIS;O&L;Generation Zero;TRUE;<p>Todo</p>
+INOS;O&L;1st Generation;TRUE;<p>Todo</p>
+OMS;O&L;2nd Generation;TRUE;<p>Todo</p>
+FreeRange;O&L;3rd Generation;TRUE;<p>Todo</p>
+MHS;MHS&FRIENDs;Generation Zero;TRUE;<p>Todo</p>
+RIX;MHS&FRIENDs;1st Generation;TRUE;<p>Todo</p>
+CRA;MHS&FRIENDs;2nd Generation;TRUE;<p>Todo</p>
+ISP;MHS&FRIENDs;3rd Generation;TRUE;<p>Todo</p>
+CNS;H&SG;Generation Zero;TRUE;<p>Todo</p>
+CIP;H&SG;1st Generation;FALSE;<p>Todo</p>
+DES;H&SG;2nd Generation;FALSE;<p>Todo</p>
+COP-GEMINI;H&SG;3rd Generation;FALSE;<p>Todo</p>
+GTS;H&SG;Generation Zero;TRUE;<p>Todo</p>
+WGC;H&SG;1st Generation;TRUE;<p>Todo</p>
+CWIS;H&SG;2nd Generation;TRUE;<p>Todo</p>
+"BI@HSG /
+ISAG";H&SG;3rd Generation;TRUE;<p>Todo</p>
